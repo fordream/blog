@@ -1,6 +1,6 @@
 Title: Major Difference between MVVM and MVC
 Date:2015-08-08
-Category: UI
+Category: 前端
 
 In MVC, ***C*** (controller) must ***hard refereces*** a variable's name of UI elements from View. Therefore, changes in View will ***domino*** ***C*** code changes.
 
